@@ -1,0 +1,12 @@
+Flask==3.0.0
+Flask-Cors==4.0.0
+langchain-groq==0.0.4
+langchain-community==0.0.24
+langchain==0.1.9
+langchain-huggingface==0.0.3
+requests==2.31.0
+transformers==4.38.1
+pydantic==2.6.1
+neo4j==5.18.0
+sentence-transformers==2.3.1
+torch==2.2.0
